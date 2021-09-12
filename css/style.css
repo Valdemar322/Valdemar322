@@ -77,3 +77,20 @@ header ul li a{
     color: #ffffff; 
     text-align: center;
  }
+
+.slide{
+    width: 800px;
+}
+
+ h2{
+     text-align: center;
+ }
+
+ .carousel-item, .carousel-inner{
+     height: 400px;
+     border-radius: 4px;
+ }
+
+ h5{
+     color: black;
+ }
